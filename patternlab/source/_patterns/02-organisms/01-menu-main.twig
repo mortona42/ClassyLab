@@ -1,0 +1,5 @@
+{% extends "@molecules/00-block.twig" %}
+{% block content %}
+{% import "@molecules/01-menu.twig" as menus %}
+{{ menus.menu_links(main_menu.items, main_menu.attributes, 0) }}
+{% endblock %}

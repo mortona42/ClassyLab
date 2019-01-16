@@ -1,0 +1,26 @@
+name: Classy Lab
+description: Classy PatterLab starter
+core: 8.x
+type: theme
+
+base theme: classy
+
+component-libraries:
+  atoms:
+    paths:
+      - patternlab/source/_patterns/00-atoms
+  molecules:
+    paths:
+      - patternlab/source/_patterns/01-molecules
+  organisms:
+    paths:
+      - patternlab/source/_patterns/02-organisms
+  templates:
+    paths:
+      - patternlab/source/_patterns/03-templates
+  pages:
+    paths:
+      - patternlab/source/_patterns/04-pages
+  macros:
+    paths:
+      - patternlab/source/_macros

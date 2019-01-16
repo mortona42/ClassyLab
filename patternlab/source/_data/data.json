@@ -1,0 +1,55 @@
+{
+  "title": "Classy Lab",
+  "site_name": "Classy Lab",
+  "site_logo": "http://placeimg.com/200/150/tech",
+  "site_slogan": "Basic Pattern Lab setup for Classy.",
+  "attributes": {
+    "Attribute()": {
+    }
+  },
+  "title_attributes": {
+    "Attribute()": {
+      "class": []
+    }
+  },
+  "main_menu": {
+    "items": [
+      {
+        "title": "Home",
+        "url": "#",
+        "attributes": {
+          "Attribute()": {
+            "class": ["is-active"]
+          }
+        }
+      },
+      {
+        "title": "Blog",
+        "url": "#",
+        "attributes": {
+          "Attribute()": {
+          }
+        }
+      },
+      {
+        "title": "About",
+        "url": "#",
+        "attributes": {
+          "Attribute()": {
+          }
+        }
+      },
+      {
+        "title": "Contact",
+        "url": "#",
+        "attributes": {
+          "Attribute()": {
+          }
+        }
+      }
+    ],
+    "attributes": {
+      "Attribute()": {}
+    }
+  }
+}
