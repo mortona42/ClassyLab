@@ -1,0 +1,12 @@
+{
+  "name": "mortona42/classylab",
+  "description": "ClassyLab",
+  "type": "drupal-theme",
+  "authors": [
+    {
+      "name": "Andrew Morton",
+      "homepage": "https://andrewmorton.info/"
+    }
+  ],
+  "license": "GPL-2.0+"
+}
